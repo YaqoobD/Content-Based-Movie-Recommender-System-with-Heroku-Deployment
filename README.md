@@ -1,6 +1,12 @@
 # Content-Based-Movie-Recommender-System-with-Heroku-Deployment
 
-This is a content-based movie recommendation system project. It uses the TMDB dataset and leverages natural language processing techniques to recommend movies based on their content features such as genres, keywords, cast, and crew.
+This is a project centered around a content-based movie recommendation system. The system utilizes the TMDB dataset and incorporates various natural language processing techniques to facilitate movie recommendations based on the content features of films, including genres, keywords, cast, and crew.
+
+To achieve this, two key methods, cosine similarity and vectorization, are employed. Cosine similarity is a measure that quantifies the similarity between two vectors by computing the cosine of the angle between them. In the context of this recommendation system, it is utilized to determine the similarity between the content features of different movies, allowing for the identification of movies with similar characteristics.
+
+Additionally, vectorization is employed as a means of representing textual data in a numerical format that can be processed by machine learning algorithms. This technique transforms textual features, such as genres, keywords, cast, and crew, into numerical vectors, enabling mathematical operations and comparisons to be performed on them.
+
+By leveraging these methods, the content-based movie recommendation system can analyze the content features of movies and provide recommendations based on similarities between their characteristics, thus assisting users in discovering movies that align with their preferences and interests.
 
 ## Table of Contents
 
