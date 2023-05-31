@@ -26,7 +26,9 @@ The movie recommendation system is designed to help users discover new movies ba
 
 ## Dataset
 
-The dataset used in this project is the TMDB dataset. It contains information about movies, including their titles, overviews, genres, keywords, cast, and crew. The dataset is preprocessed to extract relevant features for the recommendation system.
+Utilizing the vast TMDB dataset, this project aims to construct a movie recommendation system. The dataset contains a wealth of information about movies, including titles, overviews, genres, keywords, cast, and crew. Through meticulous preprocessing, relevant features are extracted to facilitate the recommendation process.
+
+To address these inquiries, the project leverages the available data, including plot summaries, cast and crew details, budget information, and revenues for a vast array of films. By analyzing these comprehensive factors, the aim is to develop a synchronized movie recommendation system capable of suggesting films that align with users' preferences, taking into account both commercial viability and critical reception.
 
 ## Technologies Used
 
